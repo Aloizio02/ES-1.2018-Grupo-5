@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"animationId":9,"description":"","etypeId":1,"traits":[{"code":31,"dataId":4,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":312,"name":"Netbeans","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":2,"animationId":9,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":312,"name":"BlueJ","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":3,"animationId":8,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":310,"name":"CodeBlocks","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":4},
+{"id":4,"animationId":8,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":310,"name":"Eclipse","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":4},
+{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":311,"name":"Atom","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":5},
+{"id":6,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":189,"name":"Bloco de Notas","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":189,"name":"NotePad++","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":191,"name":"Word","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":191,"name":"LibreOffice","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":220,"name":"Taiga.io","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":311,"name":"Komodo","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":6},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":309,"name":"Zend Studio","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":13,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":309,"name":"Visual Studio Code","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":14,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":220,"name":"Github","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":15,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":186,"name":"Astah","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":16,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":186,"name":"StarUML","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":196,"name":"Selenium","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":7},
+{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":196,"name":"Appium","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":1,"name":"PFMEA","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":1,"name":"CheckList","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

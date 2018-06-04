@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Apartamento","order":9,"parentId":3,"scrollX":640.8,"scrollY":402},
+{"id":2,"expanded":false,"name":"Teste batalha","order":2,"parentId":3,"scrollX":772,"scrollY":494.6666666666667},
+{"id":3,"expanded":true,"name":"Cidade","order":1,"parentId":0,"scrollX":1416,"scrollY":484},
+{"id":4,"expanded":false,"name":"LojaDeEquipamentos","order":3,"parentId":3,"scrollX":650.4,"scrollY":366},
+{"id":5,"expanded":false,"name":"Taberna","order":4,"parentId":3,"scrollX":772,"scrollY":494.6666666666667},
+{"id":6,"expanded":false,"name":"Lanchonete","order":5,"parentId":3,"scrollX":772,"scrollY":494.6666666666667},
+{"id":7,"expanded":true,"name":"Inicio","order":17,"parentId":0,"scrollX":772,"scrollY":494.6666666666667},
+{"id":8,"expanded":false,"name":"Hotel 2 Andar","order":7,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"Hotel","order":6,"parentId":3,"scrollX":650.4,"scrollY":366},
+{"id":10,"expanded":false,"name":"Escolha","order":18,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"SalaGerente","order":15,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":true,"name":"EntradaCorp","order":12,"parentId":3,"scrollX":772,"scrollY":494.6666666666667},
+{"id":13,"expanded":false,"name":"Recepção","order":13,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":14,"expanded":false,"name":"Trabalho","order":14,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":false,"name":"SalaPauloMello","order":16,"parentId":12,"scrollX":650.4,"scrollY":366},
+{"id":16,"expanded":false,"name":"Corrida","order":19,"parentId":0,"scrollX":1638.6666666666667,"scrollY":484},
+{"id":17,"expanded":false,"name":"Posto","order":20,"parentId":0,"scrollX":761.3333333333334,"scrollY":513.3333333333334},
+{"id":18,"expanded":false,"name":"Hotel 3 Andar","order":8,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":19,"expanded":false,"name":"Apartamento2","order":10,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":20,"expanded":false,"name":"Apartamento3","order":11,"parentId":1,"scrollX":832,"scrollY":640}
+]
