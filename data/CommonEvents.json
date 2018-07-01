@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":201,"indent":0,"parameters":[0,14,8,6,0,0]},{"code":223,"indent":0,"parameters":[[0,0,0,0],60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Retornar a Empresa","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"Dia",0,0,700,10,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"1",0,0,750,10,100,100,255,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Dia","switchId":125,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
